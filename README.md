@@ -25,7 +25,7 @@ This project implements a SMS spam detector using Machine Learning algorithms, p
    pip install -r requirements.txt
 
 ## Video sample
-[![SMS Spam Detector Demo](SMS-SPAM.png)](SMS_SPAM_DETECTOR.mp4)
+![SMS Spam Detector Demo](sms-spam.gif)
 
 Click on the image to play the video
 
