@@ -24,6 +24,11 @@ This project implements a SMS spam detector using Machine Learning algorithms, p
    ```bash
    pip install -r requirements.txt
 
+## Video sample
+[![SMS Spam Detector Demo](SMS-SPAM.png)](SMS_SPAM_DETECTOR.mp4)
+
+Click on the image to play the video
+
 ## Usage
 1. Run the streamlit app:
    ```bash
